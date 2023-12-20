@@ -24,7 +24,7 @@ const MunList = () => {
                     <Grid container>
                         <Grid item xs={10} sx={{position: "fixed", backgroundColor: "transparent", borderRadius: "10px", marginTop: "1em"}}>
                             <Button onClick={() => {
-                                        navigate("/");
+                                        navigate("/*");
                                     }}>
                                         <HomeIcon sx={{color: "#D4D4D4"}}/>
                                     </Button>

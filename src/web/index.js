@@ -9,7 +9,7 @@ import MunList from "../components/munList";
 const WebPages = () => {
     return(
         <Routes>
-            <Route path="/" element= {<Home/>} />
+            <Route path="/*" element= {<Home/>} />
             <Route path="/elementClime/:nes/:nmun" element = {<ElementClime/>} />
             <Route path="/listComponent/" element = {<ListComponent/>} />
             <Route path="/munList/:nes" element = {<MunList/>} />
