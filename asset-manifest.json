@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/project-tw/static/css/main.b1aca2eb.css",
-    "main.js": "/project-tw/static/js/main.d4b4c470.js",
+    "main.js": "/project-tw/static/js/main.1c1c7aa3.js",
     "static/js/787.f42f631a.chunk.js": "/project-tw/static/js/787.f42f631a.chunk.js",
     "static/media/Tamaulipas.png": "/project-tw/static/media/Tamaulipas.8be163c8b88b1fedfc10.png",
     "static/media/Nayarit.png": "/project-tw/static/media/Nayarit.c5aa37b9b6144363958d.png",
@@ -49,11 +49,11 @@
     "static/media/CLIMAX_LOGOsobre2.png": "/project-tw/static/media/CLIMAX_LOGOsobre2.ebeff725caf06a0b986c.png",
     "index.html": "/project-tw/index.html",
     "main.b1aca2eb.css.map": "/project-tw/static/css/main.b1aca2eb.css.map",
-    "main.d4b4c470.js.map": "/project-tw/static/js/main.d4b4c470.js.map",
+    "main.1c1c7aa3.js.map": "/project-tw/static/js/main.1c1c7aa3.js.map",
     "787.f42f631a.chunk.js.map": "/project-tw/static/js/787.f42f631a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b1aca2eb.css",
-    "static/js/main.d4b4c470.js"
+    "static/js/main.1c1c7aa3.js"
   ]
 }
