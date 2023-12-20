@@ -39,7 +39,7 @@ const ElementHeaderCard = (props) => {
                 <CardContent>
                     <Grid item>
                         <Button onClick={() => {
-                            navigate("/*");
+                            navigate("/");
                         }}>
                             <HomeIcon sx={{color: "white"}}/>
                         </Button>
